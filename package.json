@@ -1,0 +1,28 @@
+{
+  "name": "stack-mevn-TaskList",
+  "version": "1.0.0",
+  "description": "Un *stack* es un conjunto de tecnologias que un desarrollador utiliza para desarrollar aplicaciones.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp-learn-code/stack-mevn-TaskList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sp-learn-code/stack-mevn-TaskList/issues"
+  },
+  "homepage": "https://github.com/sp-learn-code/stack-mevn-TaskList#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
